@@ -1,0 +1,15 @@
+mport java.lang.Math;
+
+Some functions include:
+Max
+int a = 10;
+int b = 20;
+Math.max(a, b);
+
+Min
+int a = 10;
+int b = 20;
+Math.min(a,b);
+
+Random
+int randomNumber = (int)(Math.random()*100);
