@@ -1,0 +1,62 @@
+Arithmetic Operators 
+  
+  
+   ‘+’ Add
+int a = 30;
+int b = 40;
+int sum = a + b;
+
+‘-’ Subtract
+int a = 30;
+int b = 40;
+int diff = a - b;
+
+‘*’ Multiply
+int a = 30;
+int b = 40;
+int mul = a * b;
+
+‘/’ Divide
+int a = 30;
+int b = 40;
+int div = a / b;
+
+‘%’ Modulo - Remainder of a/b
+int a = 30;
+int b = 40;
+int modulo = a % b;
+
+Unary Operators
+int a = 30;
+a++;
+a--;
+
+
+
+b.Assignment Operators	: = 
++= 
+-= 
+*= 
+/= 
+
+Comparison/Relational Operators:
+== 
+!= 
+> 
+< 
+>= 
+<= 
+
+Logical Operators :
+&& 
+|| 
+! 
+
+
+
+
+
+
+
+
+
