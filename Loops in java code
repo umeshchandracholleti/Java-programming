@@ -1,0 +1,50 @@
+The syntax of the for loop is  :
+
+for (initialization; condition; update) { 
+ // body of-loop 
+}
+
+
+
+
+
+code :
+
+
+for (int i=1; i<=20; i++) {
+   System.out.println(i);
+}
+
+
+
+
+While Loop:
+The syntax for while loop is :
+(condition) { 
+ // body of the loop 
+}
+
+code :
+int i = 0;
+while(i<=20) {
+   System.out.println(i);
+   i++;
+}
+
+
+
+
+Do-While Loop :
+The syntax for the do-while loop is :
+do { 
+ // body of loop; 
+} 
+while (condition);
+
+
+code :
+int i = 0;
+do {
+   System.out.println(i);
+   i++;
+} while(i<=20);
